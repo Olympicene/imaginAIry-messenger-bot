@@ -1,0 +1,217 @@
+[
+    {
+        "key": "sb",
+        "value": "A_Random_String_Of_Numbers_And_Letters",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-05-10T21:26:39.840Z",
+        "lastAccessed": "2021-05-10T21:26:41.369Z"
+    },
+    {
+        "key": "wd",
+        "value": "A_Random_String_Of_Numbers_And_Letters",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-05-10T21:26:39.875Z",
+        "lastAccessed": "2021-05-10T21:26:41.369Z"
+    },
+    {
+        "key": "datr",
+        "value": "A_Random_String_Of_Numbers_And_Letters",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-05-10T21:26:39.878Z",
+        "lastAccessed": "2021-05-10T21:26:41.369Z"
+    },
+    {
+        "key": "c_user",
+        "value": "A_Random_String_Of_Numbers_And_Letters",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-05-10T21:26:39.880Z",
+        "lastAccessed": "2021-05-10T21:26:41.369Z"
+    },
+    {
+        "key": "xs",
+        "value": "A_Random_String_Of_Numbers_And_Letters",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-05-10T21:26:39.881Z",
+        "lastAccessed": "2021-05-10T21:26:41.369Z"
+    },
+    {
+        "key": "fr",
+        "value": "A_Random_String_Of_Numbers_And_Letters",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-05-10T21:26:39.882Z",
+        "lastAccessed": "2021-05-10T21:26:41.369Z"
+    },
+    {
+        "key": "spin",
+        "value": "A_Random_String_Of_Numbers_And_Letters",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-05-10T21:26:39.883Z",
+        "lastAccessed": "2021-05-10T21:26:41.369Z"
+    },
+    {
+        "key": "presence",
+        "value": "A_Random_String_Of_Numbers_And_Letters",
+        "domain": "facebook.com",
+        "path": "/",
+        "secure": true,
+        "hostOnly": false,
+        "creation": "2021-05-10T21:26:39.883Z",
+        "lastAccessed": "2021-05-10T21:26:41.369Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_US",
+        "domain": "facebook.com",
+        "path": "/",
+        "secure": true,
+        "hostOnly": false,
+        "creation": "2021-05-10T21:26:39.884Z",
+        "lastAccessed": "2021-05-10T21:26:41.369Z"
+    },
+    {
+        "key": "a11y",
+        "value": "A_Random_String_Of_Numbers_And_Letters",
+        "domain": "facebook.com",
+        "path": "/",
+        "secure": true,
+        "hostOnly": false,
+        "creation": "2021-05-10T21:26:39.884Z",
+        "lastAccessed": "2021-05-10T21:26:41.369Z"
+    },
+    {
+        "key": "sb",
+        "value": "A_Random_String_Of_Numbers_And_Letters",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-05-10T21:26:39.840Z",
+        "lastAccessed": "2021-05-10T21:26:41.369Z"
+    },
+    {
+        "key": "wd",
+        "value": "A_Random_String_Of_Numbers_And_Letters",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-05-10T21:26:39.875Z",
+        "lastAccessed": "2021-05-10T21:26:41.369Z"
+    },
+    {
+        "key": "datr",
+        "value": "A_Random_String_Of_Numbers_And_Letters",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-05-10T21:26:39.878Z",
+        "lastAccessed": "2021-05-10T21:26:41.369Z"
+    },
+    {
+        "key": "c_user",
+        "value": "A_Random_String_Of_Numbers_And_Letters",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-05-10T21:26:39.880Z",
+        "lastAccessed": "2021-05-10T21:26:41.369Z"
+    },
+    {
+        "key": "xs",
+        "value": "A_Random_String_Of_Numbers_And_Letters",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-05-10T21:26:39.881Z",
+        "lastAccessed": "2021-05-10T21:26:41.369Z"
+    },
+    {
+        "key": "fr",
+        "value": "A_Random_String_Of_Numbers_And_Letters",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-05-10T21:26:39.882Z",
+        "lastAccessed": "2021-05-10T21:26:41.369Z"
+    },
+    {
+        "key": "spin",
+        "value": "A_Random_String_Of_Numbers_And_Letters",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-05-10T21:26:39.883Z",
+        "lastAccessed": "2021-05-10T21:26:41.369Z"
+    },
+    {
+        "key": "presence",
+        "value": "A_Random_String_Of_Numbers_And_Letters",
+        "domain": "facebook.com",
+        "path": "/",
+        "secure": true,
+        "hostOnly": false,
+        "creation": "2021-05-10T21:26:39.883Z",
+        "lastAccessed": "2021-05-10T21:26:41.369Z"
+    },
+    {
+        "key": "locale",
+        "value": "A_Random_String_Of_Numbers_And_Letters",
+        "domain": "facebook.com",
+        "path": "/",
+        "secure": true,
+        "hostOnly": false,
+        "creation": "2021-05-10T21:26:39.884Z",
+        "lastAccessed": "2021-05-10T21:26:41.369Z"
+    },
+    {
+        "key": "a11y",
+        "value": "A_Random_String_Of_Numbers_And_Letters",
+        "domain": "facebook.com",
+        "path": "/",
+        "secure": true,
+        "hostOnly": false,
+        "creation": "2021-05-10T21:26:39.884Z",
+        "lastAccessed": "2021-05-10T21:26:41.369Z"
+    },
+    {
+        "key": "presence",
+        "value": "A_Random_String_Of_Numbers_And_Letters",
+        "domain": "messenger.com",
+        "path": "/",
+        "secure": true,
+        "hostOnly": false,
+        "creation": "2021-05-10T21:26:39.892Z",
+        "lastAccessed": "2021-05-10T21:26:41.370Z"
+    },
+    {
+        "key": "locale",
+        "value": "A_Random_String_Of_Numbers_And_Letters",
+        "domain": "messenger.com",
+        "path": "/",
+        "secure": true,
+        "hostOnly": false,
+        "creation": "2021-05-10T21:26:39.893Z",
+        "lastAccessed": "2021-05-10T21:26:41.370Z"
+    },
+    {
+        "key": "spin",
+        "value": "A_Random_String_Of_Numbers_And_Letters",
+        "domain": "messenger.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2021-05-10T21:26:39.893Z",
+        "lastAccessed": "2021-05-10T21:26:41.370Z"
+    }
+]

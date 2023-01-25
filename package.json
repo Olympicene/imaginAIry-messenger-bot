@@ -1,0 +1,27 @@
+{
+  "name": "imaginairy-messenger-bot",
+  "version": "1.0.0",
+  "description": "Messenger bot for imaginAIry.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Olympicene/imaginAIry-messenger-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Olympicene/imaginAIry-messenger-bot/issues"
+  },
+  "homepage": "https://github.com/Olympicene/imaginAIry-messenger-bot#readme",
+  "dependencies": {
+    "app-root-path": "^3.1.0",
+    "dotenv": "^16.0.3",
+    "es6-promisify": "^7.0.0",
+    "facebook-chat-api": "github:kb2ateam/facebook-chat-api",
+    "fs": "^0.0.1-security",
+    "node-schedule": "^2.1.1"
+  }
+}
